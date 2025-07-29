@@ -1,18 +1,18 @@
 [
 null,
-{"id":1,"expanded":true,"name":"Biblioteca","order":1,"parentId":0,"scrollX":1030.8,"scrollY":615.6},
-{"id":2,"expanded":true,"name":"ReinoConocimiento-Libro 1","order":2,"parentId":1,"scrollX":816,"scrollY":567.6},
-{"id":3,"expanded":true,"name":"ReinoConocimiento-Libro 3","order":8,"parentId":1,"scrollX":850.8,"scrollY":516},
-{"id":4,"expanded":true,"name":"ReinoConocimiento-Libro 2","order":6,"parentId":1,"scrollX":850.8,"scrollY":516},
+{"id":1,"expanded":true,"name":"Biblioteca","order":1,"parentId":0,"scrollX":1030.8,"scrollY":423.59999999999997},
+{"id":2,"expanded":true,"name":"ReinoConocimiento-Libro 1","order":2,"parentId":1,"scrollX":850.8,"scrollY":703.1999999999999},
+{"id":3,"expanded":false,"name":"ReinoConocimiento-Libro 3","order":8,"parentId":1,"scrollX":673.1999999999999,"scrollY":516},
+{"id":4,"expanded":false,"name":"ReinoConocimiento-Libro 2","order":6,"parentId":1,"scrollX":850.8,"scrollY":1016.4},
 null,
-{"id":6,"expanded":true,"name":"ReinoConocimiento-Libro 4","order":10,"parentId":1,"scrollX":850.8,"scrollY":435.59999999999997},
+{"id":6,"expanded":false,"name":"ReinoConocimiento-Libro 4","order":10,"parentId":1,"scrollX":850.8,"scrollY":351.59999999999997},
 {"id":7,"expanded":true,"name":"ReinoConocimiento-Restaurado","order":12,"parentId":1,"scrollX":780,"scrollY":472.79999999999995},
 {"id":8,"expanded":true,"name":"Nivel1-Laboratorio","order":3,"parentId":2,"scrollX":646.8,"scrollY":361.2},
 {"id":9,"expanded":false,"name":"NaveEspacial","order":7,"parentId":4,"scrollX":637.1999999999999,"scrollY":759.6},
 {"id":10,"expanded":true,"name":"Nivel1-Sala 1","order":4,"parentId":8,"scrollX":832,"scrollY":640},
-{"id":11,"expanded":true,"name":"Nivel1-Sala 2","order":5,"parentId":8,"scrollX":832,"scrollY":640},
+{"id":11,"expanded":true,"name":"Nivel1-Sala 2","order":5,"parentId":8,"scrollX":646.8,"scrollY":361.2},
 {"id":12,"expanded":false,"name":"Hospital","order":9,"parentId":3,"scrollX":1137.6,"scrollY":435.59999999999997},
 null,
 null,
-{"id":15,"expanded":false,"name":"BibliotecaAntigua","order":11,"parentId":6,"scrollX":922.8,"scrollY":1263.6}
+{"id":15,"expanded":false,"name":"BibliotecaAntigua","order":11,"parentId":6,"scrollX":913.1999999999999,"scrollY":1254}
 ]
